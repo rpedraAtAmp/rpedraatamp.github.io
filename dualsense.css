@@ -3,7 +3,7 @@ body {
     background-color: RGBA(0, 0, 0, 0); 
     margin: 0 auto; 
     overflow: hidden; 
-} .controller .custom{
+} .controller.custom{
     background: url(https://i.imgur.com/fJIyBwn.png);
     width: 807px;
     height: 651px;
